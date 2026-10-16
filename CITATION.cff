@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "VeriCharge: selective EV charging-load forecasting — code, frozen artifacts and demo"
+authors:
+  - family-names: "ALHAJAHMAD"
+    given-names: "Bashar"
+    affiliation: "Siirt University"
+    orcid: "https://orcid.org/0009-0009-3455-7206"
+version: "1.0"
+date-released: "2026-10-16"
+license: MIT
+repository-code: "https://github.com/Dr-Bashar-Uni-Hub/VeriCharge"
